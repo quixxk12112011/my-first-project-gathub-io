@@ -1,2 +1,2 @@
-# my-first-project-gathub-io
+# Новий рік
 My first project on GitHub
